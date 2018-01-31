@@ -91,7 +91,7 @@ Required:
 ### Clone the project to your desired location:
 
 ```
-$ git clone https://github.com/neagkv/bot_arbitrage
+$ git clone https://github.com/Thleruth/bot_arbitrage
 ```
 
 ### Set up aws credentials:
@@ -175,7 +175,7 @@ $ mvn spring-boot:run
 ```
 
 ### Maven
-Add the following dependencies in your [`pom.xml`](https://github.com/neagkv/bot_arbitrage/blob/master/pom.xml)
+Add the following dependencies in your [`pom.xml`](https://github.com/Thleruth/bot_arbitrage/blob/master/pom.xml)
 
 #### Dependencies
 ```xml
